@@ -4,3 +4,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+body {
+    background: url("../img/halloween_bg.png") no-repeat center center fixed;
+}
