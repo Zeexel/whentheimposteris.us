@@ -9,7 +9,7 @@ var keyHandler = function(event) {
 
     monster_current++;
     if (monster_pattern.length == monster_current) {
-        window.location.replace("https://whentheimposteris.us/monster");   
+        window.location.replace("https://whentheimposteriss.us/monster");   
     }
 }
 
