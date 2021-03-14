@@ -11,6 +11,7 @@ var keyHandler = function(event) {
     if (monster_pattern.length == monster_current) {
         window.location.replace("https://whentheimposteriss.us/monster");   
     }
+
 }
 
 document.addEventListener("keydown", keyHandler, false);
